@@ -33,7 +33,7 @@ This is a simple forum website where users can post messages and comments.
 - `index.html`: The main HTML file that serves as the base page for the website.
 - `styles.css`: CSS file for styling the website.
 - `script.js`: JavaScript file containing the website's functionality.
-- `images/`: Folder containing images used in the website.
+- `screenshots/`: Folder containing screenshots of the website.
 
 ## How to Contribute 🤝
 
